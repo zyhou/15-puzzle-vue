@@ -1,6 +1,6 @@
 import { choiceInArray } from '../../core/src';
 
-import castex from './assets/images/puzzle/castex.png';
+import castex from './assets/images/puzzle/castex.jpg';
 
 export const url = picture => `url("${picture}")`;
 
