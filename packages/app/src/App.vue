@@ -26,7 +26,7 @@ export default {
         const date = new Date().getFullYear();
 
         return {
-            title: 'Play the 15 Puzzle Game',
+            title: 'jean casse tête',
             footer: {
                 twitter: {
                     href: 'https://twitter.com/luwangel',

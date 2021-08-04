@@ -5,7 +5,7 @@ module.exports = {
             entry: 'src/main.js',
             template: 'public/index.html',
             filename: 'index.html',
-            title: 'Play the 15 Puzzle Game',
+            title: 'jean casse tête',
         },
     },
 };
